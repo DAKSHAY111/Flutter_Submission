@@ -2,8 +2,6 @@ import 'package:lab4_tutorial1/lab4_tutorial1.dart' as lab4_tutorial1;
 
 import 'dart:math';
 
-//Dev
-
 /* Constructors are of 5 types:
 (Constuctor with class _name only is un_named constructor)
 1)Default Constructor
